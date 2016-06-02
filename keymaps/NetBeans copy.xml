@@ -15,8 +15,29 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
 </keymap>
