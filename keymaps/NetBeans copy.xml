@@ -1,0 +1,19 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CopyReference" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="HippieCompletion" />
+</keymap>
