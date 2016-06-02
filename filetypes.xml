@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="csv" type="Native" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="RLAR-284_suburbs" type="SQL" />
       <mapping pattern=".htpasswd" type="htaccess" />
     </extensionMap>
