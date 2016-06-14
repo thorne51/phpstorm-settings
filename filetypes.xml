@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="csv" type="Native" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="RLAR-284_suburbs" type="SQL" />
       <mapping pattern=".htpasswd" type="htaccess" />
