@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'assetsolve'" />
     <option name="defaultScopeName" value="Project 'assetsolve'" />
     <option name="SEARCH_SCOPE" value="Project 'assetsolve'" />
+    <option name="FILE_MASK" value=".gitignore" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +17,7 @@
       <mask>*.less</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>.gitignore</mask>
     </recentFileMasks>
   </component>
 </application>
