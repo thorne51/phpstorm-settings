@@ -154,7 +154,7 @@
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
-            <configuration_option name="post_max_size" value="8M" />
+            <configuration_option name="post_max_size" value="100M" />
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="16K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
@@ -205,7 +205,7 @@
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_max_filesize" value="200M" />
             <configuration_option name="upload_tmp_dir" value="C:\xampp\tmp" />
             <configuration_option name="url_rewriter.tags" value="a=href,area=href,frame=src,input=src,form=fakeentry" />
             <configuration_option name="user_agent" value="" />
@@ -264,8 +264,8 @@
             <configuration_option name="xdebug.trace_output_dir" value="\" />
             <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
             <configuration_option name="xdebug.var_display_max_children" value="128" />
-            <configuration_option name="xdebug.var_display_max_data" value="512" />
-            <configuration_option name="xdebug.var_display_max_depth" value="3" />
+            <configuration_option name="xdebug.var_display_max_data" value="-1" />
+            <configuration_option name="xdebug.var_display_max_depth" value="-1" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
             <configuration_option name="zend.detect_unicode" value="1" />
@@ -284,6 +284,7 @@
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
+            <extension name="PDO_ODBC" />
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
