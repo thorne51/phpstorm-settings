@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'assetsolve'" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="class.*_object.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -19,8 +19,8 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>.gitignore</mask>
-      <mask>class.*_object.php</mask>
       <mask>*.html</mask>
+      <mask>class.*_object.php</mask>
     </recentFileMasks>
   </component>
 </application>
