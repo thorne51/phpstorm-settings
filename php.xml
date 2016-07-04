@@ -8,7 +8,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.5">
-        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" remote_host="127.0.0.1" version="5.5.35">
+        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="5.5.35">
           <additional_php_ini />
           <configuration_file>C:\xampp\php\php.ini</configuration_file>
           <configuration_options>
@@ -51,7 +51,7 @@
             <configuration_option name="error_append_string" value="" />
             <configuration_option name="error_log" value="C:\xampp\php\logs\php_error_log" />
             <configuration_option name="error_prepend_string" value="" />
-            <configuration_option name="error_reporting" value="22527" />
+            <configuration_option name="error_reporting" value="22519" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
             <configuration_option name="exif.decode_jis_motorola" value="JIS" />
             <configuration_option name="exif.decode_unicode_intel" value="UCS-2LE" />
@@ -242,7 +242,7 @@
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
             <configuration_option name="xdebug.profiler_enable" value="1" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="1" />
             <configuration_option name="xdebug.profiler_output_dir" value="C:\xampp\tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
