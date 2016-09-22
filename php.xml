@@ -14,7 +14,7 @@
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
-            <configuration_option name="allow_url_include" value="" />
+            <configuration_option name="allow_url_include" value="1" />
             <configuration_option name="always_populate_raw_post_data" value="0" />
             <configuration_option name="arg_separator.input" value="&amp;" />
             <configuration_option name="arg_separator.output" value="&amp;" />
@@ -80,6 +80,7 @@
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value="C:\xampp\php\PEAR" />
+            <configuration_option name="ldap.max_links" value="-1" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
             <configuration_option name="mail.add_x_header" value="1" />
@@ -237,7 +238,7 @@
             <configuration_option name="xdebug.extended_info" value="1" />
             <configuration_option name="xdebug.file_link_format" value="" />
             <configuration_option name="xdebug.idekey" value="" />
-            <configuration_option name="xdebug.max_nesting_level" value="100" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.overload_var_dump" value="1" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
@@ -263,7 +264,7 @@
             <configuration_option name="xdebug.trace_options" value="0" />
             <configuration_option name="xdebug.trace_output_dir" value="\" />
             <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
-            <configuration_option name="xdebug.var_display_max_children" value="128" />
+            <configuration_option name="xdebug.var_display_max_children" value="-1" />
             <configuration_option name="xdebug.var_display_max_data" value="-1" />
             <configuration_option name="xdebug.var_display_max_depth" value="-1" />
             <configuration_option name="xmlrpc_error_number" value="0" />
@@ -306,6 +307,7 @@
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mcrypt" />
