@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'assetsolve'" />
     <option name="defaultScopeName" value="Project 'assetsolve'" />
     <option name="SEARCH_SCOPE" value="Project 'assetsolve'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,12 +14,12 @@
       <mask>bootstrap.php</mask>
       <mask>*.less</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>.gitignore</mask>
       <mask>*.html</mask>
       <mask>class.*_object.php</mask>
       <mask>.css</mask>
       <mask>*.css</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
