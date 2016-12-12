@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="importdbo" value="global $Paths;&#10;require_once($Paths-&gt;get('core', 'lib/DB/class.DBObject.php'));&#10;" description="Imports the DBObject class using $Paths global var" toReformat="false" toShortenFQNames="true" />
+</templateSet>
