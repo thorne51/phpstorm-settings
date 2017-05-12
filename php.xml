@@ -1,10 +1,5 @@
 <application>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\xampp\php\php.exe" id="9be2c9f9-9642-492f-80eb-111b90dd512b" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.5">
