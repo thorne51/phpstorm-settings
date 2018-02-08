@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping ext="tdf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
