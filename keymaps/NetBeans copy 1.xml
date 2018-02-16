@@ -1,4 +1,12 @@
 <keymap version="1" name="NetBeans copy 1" parent="NetBeans 6.5">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -9,4 +17,6 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="CopyReference" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoProject" />
 </keymap>
