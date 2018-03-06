@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -16,11 +17,11 @@
       <mask>*.less</mask>
       <mask>*.php</mask>
       <mask>.gitignore</mask>
-      <mask>*.html</mask>
       <mask>class.*_object.php</mask>
       <mask>.css</mask>
       <mask>*.css</mask>
       <mask>*.js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
