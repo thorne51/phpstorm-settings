@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="tdf" type="PLAIN_TEXT" />
-      <mapping ext="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="gitignore_global.txt" type="Git file" />
-    </extensionMap>
-  </component>
-</application>
